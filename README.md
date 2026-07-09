@@ -1,3 +1,5 @@
+![Banner](./mou.png)
+
 ### Hey there, I'm Mou 👋
 
 🎓 Web Development Trainee @ Programming Hero | Student @ Rangpur Ideal Institute of Technology (RIIT)
@@ -13,7 +15,7 @@
 - 💬 Ask me about Next.js, MongoDB, Auth, or deployment (Vercel/Render)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kanich-fatimah-mou/) • [Email]
 (kanichfatema@outlook.com)
-![Banner](./mou.png)
+
 ---
 
  Tech Stack
