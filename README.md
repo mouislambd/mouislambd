@@ -13,7 +13,7 @@
 - 💬 Ask me about Next.js, MongoDB, Auth, or deployment (Vercel/Render)
 - 📫 Reach me: [LinkedIn](https://www.linkedin.com/in/kanich-fatimah-mou/) • [Email]
 (kanichfatema@outlook.com)
-
+![Banner](./mou.png)
 ---
 
  Tech Stack
